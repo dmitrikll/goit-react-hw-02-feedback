@@ -6,8 +6,8 @@ margin-left: auto;
 margin-right: auto;
 margin-top: 50px;
 padding: 50px;
-background: #e0e0e0;
-border: 1px solid #bfbfbf;
+background: #87CEFA;
+border: 1px solid #000000;
 border-radius: 4px;
 `;
 
