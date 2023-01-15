@@ -6,7 +6,7 @@ margin-left: auto;
 margin-right: auto;
 margin-top: 50px;
 padding: 50px;
-background: #87CEFA;
+background: #87cefa;
 border: 1px solid #000000;
 border-radius: 4px;
 `;

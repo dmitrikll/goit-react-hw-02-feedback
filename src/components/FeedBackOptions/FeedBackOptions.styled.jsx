@@ -13,7 +13,8 @@ border-radius: 4px;
 
 &:hover {
     cursor: pointer;
-    background-color: #f7f7f7;
-    box-shadow: 0px 0px 5px 0px rgba(66, 68, 90, 0.55);
+    color: #ffffff;
+    background-color: #696969;
+    box-shadow: 0px 0px 7px 0px #696969;
 }
 `;
