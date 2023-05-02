@@ -65,7 +65,7 @@ state = {
 статистики винеси в компонент `<Notification message="There is no feedback">`.
 ![step 4](/assets/step-4.gif)
 
-# =====================================
+# =======================
 
 # React homework template
 
